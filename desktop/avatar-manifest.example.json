@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "displayName": "My Avatar",
+  "model": "avatar.pmx",
+  "files": [
+    { "path": "avatar.pmx", "bytes": 1 },
+    { "path": "textures/body.png", "bytes": 1 }
+  ]
+}

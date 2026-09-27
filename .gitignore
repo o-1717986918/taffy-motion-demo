@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+desktop-build/
+local-models/**
+!local-models/README.md
+/public/runtime/**
+desktop/avatar-manifest.json
+desktop/voice-model-manifest.json
+/profiles/
+artifacts/
+*.log
+sbom.spdx.json
+*.zip
+release/
+desktop-release/

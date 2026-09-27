@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "displayName": "My RVC voice",
+  "format": "RVC",
+  "version": "local",
+  "suppliedByUser": true,
+  "slotIndex": 168,
+  "sourceArchive": {
+    "name": "my-authorized-model.zip",
+    "sha256": "replace-with-64-character-sha256"
+  },
+  "model": {
+    "name": "voice.onnx",
+    "bytes": 1,
+    "sha256": "replace-with-64-character-sha256",
+    "url": "/__taffy_voice_model/model"
+  },
+  "index": {
+    "name": "voice.index",
+    "bytes": 1,
+    "sha256": "replace-with-64-character-sha256",
+    "url": "/__taffy_voice_model/index"
+  },
+  "recommended": {
+    "pitch": 0,
+    "indexRatio": 0.35,
+    "protect": 0.25,
+    "chunkSize": 48
+  }
+}
